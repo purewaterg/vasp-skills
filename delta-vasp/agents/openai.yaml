@@ -1,0 +1,4 @@
+interface:
+  display_name: "DELTA VASP 批次操作"
+  short_description: "按公共入口准备、预检、监控、验收和归档 VASP 批次"
+  default_prompt: "使用 $delta-vasp 安全地准备、预检、监控、验收和归档 DELTA VASP 批次。"

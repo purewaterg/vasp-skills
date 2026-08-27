@@ -1,0 +1,4 @@
+interface:
+  display_name: "DELTA 科学结果审阅"
+  short_description: "审阅已验收计算结果并形成需人工确认的科学阶段门建议"
+  default_prompt: "使用 $delta-review 审阅已验收的 DELTA 计算结果，并起草需人工确认的科学阶段门建议。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "DELTA 构型与选样设计"
+  short_description: "设计并审计构型枚举、去重、描述符、覆盖与 DFT 选样"
+  default_prompt: "使用 $delta-design 设计并审计 DELTA 构型空间与 DFT 选样工作流。"

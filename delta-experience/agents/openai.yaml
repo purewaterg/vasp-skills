@@ -1,0 +1,4 @@
+interface:
+  display_name: "DELTA 经验沉淀"
+  short_description: "管理真实任务经验的形成、复核、验证、整理、晋升与废止闭环流程"
+  default_prompt: "使用 $delta-experience 整理这次 DELTA 任务中的高价值经验并判断后续验证或晋升去向。"
